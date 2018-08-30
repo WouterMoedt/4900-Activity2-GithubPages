@@ -35,3 +35,35 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+---
+layout: default
+---
+	<header>
+			<h2><center>Wouter Moedt</center></h2>
+	</header>
+
+
+	<article>
+			<center>
+			<br />
+			<br />
+			<h3>About this website</h3>
+
+			<img src="WM.jpg" alt="Picture of Wouter">
+
+		<div id="body">
+			<p>
+			Hello and welcome to my website!
+			</p>
+			
+			<p>
+			This website provides an overview of the four different universities I have studied at so far.
+			Each of the links above will let you navigate to a page about the selected university, which will include some general information about the university, as well as an image of the university.
+			This website does not have the intention to serve as a resume, but simply provides a bit of information on each university.
+			<br />
+			<br />
+			Under "Time Periods" you will find a table which lists from when to when I have attended each university.<br />
+			Finally, on the "Contact" page you will find my contact details, as well as links to my LinkedIn and GitHub profiles.
+		</div>
+		</article>
