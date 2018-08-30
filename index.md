@@ -36,6 +36,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+<center>
+			<li><a href="index.html">Introduction</a></li>
+			<li><a href="UNO.html">University of Nebraska at Omaha</a></li>
+			<li><a href="MCI.html">Management Center Innsbruck</a></li>
+			<li><a href="WLV.html">University of Wolverhampton</a></li>
+			<li><a href="HANZE.html">Hanze University of Applied Sciences</a></li>
+                <li><a href="time_periods.html"><b>Time Periods</b></a></li>
+			<li><a href="contact.html">Contact</a></li>
+</center>
+
 ## About this website
 
 <img src="WM.jpg">
