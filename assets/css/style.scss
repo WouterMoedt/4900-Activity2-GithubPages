@@ -1,0 +1,141 @@
+---
+---
+
+@import "{{ site.theme }}";
+<code>
+
+ol, ul { list-style: none; margin: 0;}
+ul li { margin: 0; padding: 0;}
+h1 { margin-bottom: 10px; color: #111111;}
+p { margin: 0 0 10px; line-height: 1.4em; font-size: 1.2em;}
+img { display: block; margin-bottom: 10px;}
+aside { font-style: italic; font-size: 0.9em;}
+
+#wrapper {
+	width: 96%;
+	max-width: 920px;
+	margin: auto;
+	padding: 2%;
+	}
+
+	#main {
+		width: 60%;
+		margin-right: 5%;
+		float: left;
+		}
+
+	aside {
+		width: 35%;
+		float: right;
+		}
+
+body {
+  font-family: Arial;
+  }
+
+h1, h2 {
+  font-family: Arial;
+  style="font-size:10vw";
+  color: #FFFFFF;
+}
+
+h3, h4, h5, h6 {
+  font-family: Arial;
+  style="font-size:10vw";
+  color: #FF5722;
+}
+
+header {
+    height: 15px;
+    width: 94%;
+    float: left;
+	display: block;
+    padding: 3%;
+    background-color: #FF5722;
+}
+header #title {
+    font-size: 50px;
+    color: #FFFFFF;
+}
+nav {
+    width: 97%;
+    background-color: #E64A19;
+    padding: 0 1.5% 0 1.5%;
+}
+nav ul li {
+    display: inline-block;
+    padding: 15px 1.5% 15px 1.5% ;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 1.2em;
+}
+nav ul li a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+table {
+  border: 3px solid lightgray;
+  border-collapse: collapse;
+  text-align: left;
+}
+td {
+  padding: 7px 7px 7px 7px;
+}
+th {
+  background-color: #FF5722;
+  padding: 10px 7px 10px 7px;
+  color: lightgray;
+  text-transform: uppercase;
+}
+
+#social img {
+  width: 50px;
+  padding-bottom: 20px;
+}
+@media screen and (max-width: 480px) {
+}
+
+#skipTo {
+	display: none;
+	}
+	#skipTo li {
+		background: #b1fffc;
+		}
+
+#banner {
+	float: left;
+	margin-bottom: 15px;
+	width: 100%;
+	}
+
+	#banner img {
+		width: 100%;
+		}
+@media screen and (max-width: 480px) {
+
+	#skipTo {
+		display: block;
+		}
+
+	header nav, #main, aside {
+		float: left;
+		clear: left;
+		margin: 0 0 10px;
+		width: 100%;
+		}
+		header nav li {
+			margin: 0;
+			background: #efefef;
+			display: block;
+			margin-bottom: 3px;
+			}
+			header nav a {
+				display: block;
+				padding: 10px;
+				text-align: center;
+				}
+}
+</code>
