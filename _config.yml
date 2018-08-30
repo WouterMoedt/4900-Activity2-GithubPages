@@ -1,2 +1,10 @@
 theme: jekyll-theme-cayman
 url: "https://WouterMoedt.github.io"
+header_pages:
+  - introduction.md
+  - uno.md
+  - mci.md
+  - wlv.md
+  - hanze.md
+  - time_periods.md
+  - contact.md
