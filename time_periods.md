@@ -8,6 +8,8 @@
 
 ## Time Periods
 
+In the table below you will find from when to when I have studied at each university.
+
 <table>
 					<tr>
 						<th scope="col">Time Period</th>
