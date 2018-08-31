@@ -8,7 +8,7 @@
 
 ## University of Nebraska at Omaha
 
-<img src="UNO.jpg">
+<center><img src="UNO.jpg">width="500" height="200"/></center>
 
 The University of Nebraska Omaha, often referred to as Omaha or UNO, is a public research university located in Omaha, Nebraska, United States.
 Founded in 1908 by faculty from the Omaha Presbyterian Theological Seminary as a private non-sectarian college, the university was originally known as the University of Omaha.
