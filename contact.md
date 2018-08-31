@@ -14,6 +14,6 @@ Please feel free to contact me via e-mail or by phone using the details below, o
 
 - **Phone**: +31 6 22 18 98 82
 
-https://www.linkedin.com/in/woutermoedt/?locale=en_US"
+https://www.linkedin.com/in/woutermoedt/?locale=en_US
 
-https://github.com/WouterMoedt/"
+https://github.com/WouterMoedt/
