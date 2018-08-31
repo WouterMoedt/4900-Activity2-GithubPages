@@ -1,16 +1,14 @@
-<center>
-			<li><a href="index.html">Introduction</a></li>
-			<li><a href="UNO.html">University of Nebraska at Omaha</a></li>
-			 <li><a href="MCI.html"><b>Management Center Innsbruck</b></a></li>
-			<li><a href="WLV.html">University of Wolverhampton</a></li>
-			<li><a href="HANZE.html">Hanze University of Applied Sciences</a></li>
-			<li><a href="time_periods.html">Time Periods</a></li>
-			<li><a href="contact.html">Contact</a></li>
-</center>
+- [About this website](./index.md).
+- [University of Nebraska at Omaha](./uno.md).
+- <b>[Management Center Innsbruck](./mci.md).</b>
+- [University of Wolverhampton](./wlv.md).
+- [Hanze University of Applied Sciences](./hanze.md).
+- [Time Periods](./time_periods.md).
+- [Contact](./contact.md).
 
 ## Management Center Innsbruck
 
-<img src="MCI.png">
+<center><img src="MCI.png" width="500" height="200"/></center>
 
 MCI Management Center Innsbruck is a privately organized business school in Innsbruck, Austria. The university offers study programs leading to Bachelor and Master degrees as well as Executive Master programs (MBA, MSc, LL.M.), Executive Certificate programs, Management seminars, Customized programs and research.
 
