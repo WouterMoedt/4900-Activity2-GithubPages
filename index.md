@@ -1,12 +1,9 @@
-<center>
-	[University of Omaha at Nebraska](./uno.md)
-	[Management Center Innsbruck](./mci.md)
-	[University of Wolverhampton](./wlv.md)
-	[Hanze University of Applied Sciences](./hanze.md)
-	[Time Periods](./time_periods.md)
-	[Contact](./contact.md)
-</center>
-
+[University of Omaha at Nebraska](./uno.md).
+[Management Center Innsbruck](./mci.md).
+[University of Wolverhampton](./wlv.md).
+[Hanze University of Applied Sciences](./hanze.md).
+[Time Periods](./time_periods.md).
+[Contact](./contact.md).
 
 ## About this website
 
