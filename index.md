@@ -1,3 +1,14 @@
+<center>
+		<li><a href="index.html"><b>Introduction</b></a></li>
+			<li><a href="UNO.html">University of Nebraska at Omaha</a></li>
+			<li><a href="MCI.html">Management Center Innsbruck</a></li>
+			<li><a href="WLV.html">University of Wolverhampton</a></li>
+			<li><a href="HANZE.html">Hanze University of Applied Sciences</a></li>
+			<li><a href="time_periods.html">Time Periods</a></li>
+			<li><a href="contact.html">Contact</a></li>
+</center>
+
+
 ## About this website
 
 <center><img src="WM.jpg"></center>
