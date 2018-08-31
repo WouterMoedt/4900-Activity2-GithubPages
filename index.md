@@ -93,11 +93,11 @@ The school counts approximately 25,000 students and 2,700 employees.
 
 ## Contact
 
-Please feel free to contact me via e-mail or by phone using the details below, or find out more about me on LinkedIn or GitHub by clicking one of the icons:
+Please feel free to contact me via e-mail or by phone using the details below, or find out more about me on LinkedIn or GitHub.
 
 - **E-Mail**: wouter.moedt@live.nl
 
 - **Phone**: +31 6 22 18 98 82
 
-<a href="https://www.linkedin.com/in/woutermoedt/?locale=en_US">
-<a href="https://github.com/WouterMoedt/">
+https://www.linkedin.com/in/woutermoedt/?locale=en_US"
+https://github.com/WouterMoedt/"
