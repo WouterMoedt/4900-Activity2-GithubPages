@@ -1,10 +1,10 @@
 <center>
-	<li>[University of Omaha at Nebraska](./uno.md)</li>
-	<li>[Management Center Innsbruck](./mci.md)</li>
-	<li>[University of Wolverhampton](./wlv.md)</li>
-	<li>[Hanze University of Applied Sciences](./hanze.md)</li>
-	<li>[Time Periods](./time_periods.md)</li>
-	<li>[Contact](./contact.md)</li>
+	[University of Omaha at Nebraska](./uno.md)
+	[Management Center Innsbruck](./mci.md)
+	[University of Wolverhampton](./wlv.md)
+	[Hanze University of Applied Sciences](./hanze.md)
+	[Time Periods](./time_periods.md)
+	[Contact](./contact.md)
 </center>
 
 
