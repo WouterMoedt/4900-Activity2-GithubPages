@@ -1,11 +1,10 @@
 <center>
-		<li><a href="index.html"><b>Introduction</b></a></li>
-			<li><a href="UNO.html">University of Nebraska at Omaha</a></li>
-			<li><a href="MCI.html">Management Center Innsbruck</a></li>
-			<li><a href="WLV.html">University of Wolverhampton</a></li>
-			<li><a href="HANZE.html">Hanze University of Applied Sciences</a></li>
-			<li><a href="time_periods.html">Time Periods</a></li>
-			<li><a href="contact.html">Contact</a></li>
+	<li>[University of Omaha at Nebraska](./uno.md)</li>
+	<li>[Management Center Innsbruck](./mci.md)</li>
+	<li>[University of Wolverhampton](./wlv.md)</li>
+	<li>[Hanze University of Applied Sciences](./hanze.md)</li>
+	<li>[Time Periods](./time_periods.md)</li>
+	<li>[Contact](./contact.md)</li>
 </center>
 
 
@@ -13,7 +12,7 @@
 
 <center><img src="WM.jpg"></center>
 
-[Link to UNO](./uno.md).
+
 
 Hello and welcome to my website!
 
