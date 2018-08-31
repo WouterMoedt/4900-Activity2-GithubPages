@@ -46,4 +46,3 @@
 						<td>The Netherlands</td>
 						<td><img src="NL.png" alt="Dutch Flag" height="32px" width="32px"></td>
 					</tr>
-			</table>
