@@ -1,13 +1,3 @@
-<center>
-			<li><a href="index.html">Introduction</a></li>
-			<li><a href="UNO.html">University of Nebraska at Omaha</a></li>
-			<li><a href="MCI.html">Management Center Innsbruck</a></li>
-			<li><a href="WLV.html">University of Wolverhampton</a></li>
-			<li><a href="HANZE.html">Hanze University of Applied Sciences</a></li>
-                	<li><a href="time_periods.html">Time Periods</a></li>
-			<li><a href="contact.html">Contact</a></li>
-</center>
-
 ## About this website
 
 <center><img src="WM.jpg"></center>
@@ -24,7 +14,7 @@ Finally, on the "Contact" page you will find my contact details, as well as link
 
 ## University of Nebraska at Omaha
 
-<img src="UNO.jpg" =500x200>
+<center><img src="UNO.jpg" width="500" height="200"/></center>
 
 The University of Nebraska Omaha, often referred to as Omaha or UNO, is a public research university located in Omaha, Nebraska, United States.
 Founded in 1908 by faculty from the Omaha Presbyterian Theological Seminary as a private non-sectarian college, the university was originally known as the University of Omaha.
@@ -33,7 +23,7 @@ Meant to provide a Christian-based education free from ecclesiastical control, t
 
 ## Management Center Innsbruck
 
-<img src="MCI.png" =500x200>
+<center><img src="MCI.png" width="500" height="200"/></center>
 
 MCI Management Center Innsbruck is a privately organized business school in Innsbruck, Austria. The university offers study programs leading to Bachelor and Master degrees as well as Executive Master programs (MBA, MSc, LL.M.), Executive Certificate programs, Management seminars, Customized programs and research.
 
@@ -43,7 +33,7 @@ The Management Center Innsbruck links together the best out of science, economy 
 
 ## University of Wolverhampton
 
-<img src="WLV.png" =500x200>
+<center><img src="WLV.png" width="500" height="200"/></center>
 
 The University of Wolverhampton is an English university located on four campuses across the West Midlands, Shropshire and Staffordshire. The city campus is located in Wolverhampton city centre, with a second campus at Walsall and a third in Telford. There is an additional fourth campus in Wolverhampton at the University of Wolverhampton Science Park.
 
@@ -53,7 +43,7 @@ It has 19,560 students and currently offers over 380 undergraduate and postgradu
 
 ## Hanze University of Applied Sciences
 
-<img src="HANZE.jpg" =500x200>
+<center><img src="HANZE.jpg" width="500" height="200"/></center>
 
 Hanze University of Applied Sciences, Groningen is the largest technical & vocational university in the northern Netherlands and is located in Groningen. 
 Hanze UAS offers various Bachelor and Master programmes in Dutch, English, and German, and works closely with international partner institutes. 
